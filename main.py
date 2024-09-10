@@ -1,4 +1,4 @@
-from dialogue_manager import DialogueManager #class to be defined 
+from learning.dialogue_manager import DialogueManager #class to be defined 
 import json 
 
 
